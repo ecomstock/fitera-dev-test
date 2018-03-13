@@ -1,0 +1,21 @@
+#inset {
+  color: white;
+  background: #ED3D63;
+  width: 500px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.change-background {
+  background-color: papayawhip;
+}
+
+.card-border {
+  border-color: tomato;
+}
+
+.card-paragraph-text {
+  font-size: 1.25rem;
+}
